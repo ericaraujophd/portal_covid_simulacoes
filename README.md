@@ -1,4 +1,4 @@
-# Divulgação dos dados no portal da COVID-19 do Ministério da Saúde
+# Percepção da divulgação dos dados no portal da COVID-19 do Ministério da Saúde
 
 #### Eric Araújo (eric@ufla.br)
 
